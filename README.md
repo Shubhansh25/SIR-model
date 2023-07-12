@@ -28,4 +28,10 @@ we have a large sample size under consideration.
 
 4) Infected people recover or die at a constant rate.
 
-   
+
+
+![image](https://github.com/Shubhansh25/SIR-model/assets/139395881/c85307dc-ff16-4159-ae65-e4c8baed7b16)
+
+   ![image](https://github.com/Shubhansh25/SIR-model/assets/139395881/6c46bb3c-371a-485d-8ca9-58c8a905aaf6)
+![image](https://github.com/Shubhansh25/SIR-model/assets/139395881/01f722fd-c778-4918-9ae4-2c47f6fe39cf)
+
